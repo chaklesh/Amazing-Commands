@@ -1,10 +1,8 @@
-# *nix Terminal Commands for Beginners
+# Terminal Commands for Beginners
 
 
 - Software Specific Commands
- - [nmap](https://github.com/CodeMaxx/Terminal-Commands-Beginner/blob/master/nmap.md)
- - [sqlmap](https://github.com/CodeMaxx/Terminal-Commands-Beginner/blob/master/sqlmap.md)
- 
+
 <hr>
  
 ### General
